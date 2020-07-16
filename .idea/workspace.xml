@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8efdc98d-b6a4-41c5-8549-bcab4896a67d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yaldar2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Narrative_Viz_V1.html" afterDir="false" />
-    </list>
+    <list default="true" id="8efdc98d-b6a4-41c5-8549-bcab4896a67d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Narrative_Viz_V1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state>
+              <caret lean-forward="true" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -124,8 +118,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Narrative_Viz_V1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state>
+          <caret lean-forward="true" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
