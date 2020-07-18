@@ -100,7 +100,6 @@
                     d.Highway_MPG = +d.Highway_MPG;
                     d.Number_of_Forward_Gears = +d.Number_of_Forward_Gears;
                     d.Horsepower = +d.Horsepower;
-                    d.Torque = +d.Torque;
                   });
 
                   // Scale the range of the data
@@ -136,7 +135,7 @@
                       .data(data)
                       .enter().append("circle")
                       .attr("class", "dot")
-                      .attr("r", function(d) { return 0.05*d.Torque; })
+                      .attr("r", function(d) { return 0.05*d.Horsepower; })
                       .attr("cx", function(d) { return x(d.City_MPG); })
                       .attr("cy", function(d) { return y(d.Highway_MPG); })
                       .style("fill", function(d) { return color(d.Make); })
